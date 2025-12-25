@@ -1,4 +1,4 @@
 Test with this command : python cv_job_matcher.py match <cv_id>
 
-
+SUPABASE_URL : qkacayecvnfbkshjibzd
 anon key in .env for Supabase access : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrYWNheWVjdm5mYmtzaGppYnpkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYyNDEyNTcsImV4cCI6MjA4MTgxNzI1N30.NtCH4NSYYFfuOt8kHEj-wx8X-keZADNbu4xHUx89H5g
