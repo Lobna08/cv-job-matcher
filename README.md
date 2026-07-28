@@ -115,7 +115,6 @@ Le code suppose l'existence, côté Supabase/PostgreSQL :
   - `match_jobs_by_cv_id(cv_id_param, match_count, match_threshold)`
   - `match_cvs_by_job_id(job_id_param, match_count, match_threshold)`
 
-> **TODO :** ajouter au dépôt le script SQL de création de l'extension, des tables, de l'index HNSW et de ces deux fonctions (non fourni dans la version actuelle).
 
 ---
 
